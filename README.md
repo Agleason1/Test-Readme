@@ -12,7 +12,7 @@ Model scenario for the last 12 years if vaccination was not implemented (counter
 Model scenario for the next 12 years in which vaccination coverage is uniformly increased.
 
 
-## S. Pneumoniae and Hib data used to tune the models:
+## %S. pneumoniae% and Hib data used to tune the models:
 
 1. antibiotics_childhood_vaccination.csv <br>
 Vaccine efficacy against antibiotic use for S. pneumoniae, Hib
