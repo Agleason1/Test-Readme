@@ -12,17 +12,17 @@ Model scenario for the last 12 years if vaccination was not implemented (counter
 Model scenario for the next 12 years in which vaccination coverage is uniformly increased.
 
 
-## %S. pneumoniae% and Hib data used to tune the models:
+## *S. pneumoniae* and Hib data used to tune the models:
 
 1. antibiotics_childhood_vaccination.csv <br>
-Vaccine efficacy against antibiotic use for S. pneumoniae, Hib
+Vaccine efficacy against antibiotic use for *S. pneumoniae*, Hib
 2. district_populations_extrapolated.csv <br>
 Extrapolated population per district, based on NFHS4 and NFHS5 population data)
 3. estimated_current_prevalence.pkl<br>
-Represents current S. pneumoniae prevalence, derived from model scenario 1
+Represents current *S. pneumoniae* prevalence, derived from model scenario 1
 4. S. pneumoniae_incidence_estimates.csv<br>
-2010 incidence of pneumoniae by state
+2010 incidence of *S. pneumoniae* by state
 5. vaccination_data_condensed.csv<br>
-Vaccination coverage by state and wealth quintile for S. pneumoniae, Hib
+Vaccination coverage by state and wealth quintile for *S. pneumoniae*, Hib
 6. wealthq_data_condensed.csv<br>
 Proportion of state inhabitants per wealth quintile
