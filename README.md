@@ -28,10 +28,6 @@ Vaccination coverage by state and wealth quintile for *S. pneumoniae*, Hib
 Proportion of state inhabitants per wealth quintile
 
 ## Dependencies:
-
-The Jupyter notebooks can be run following the installation of Anaconda and the IJulia Python module. IJulia allows to load Julia kernels in Jupyter Notebook instances.
-<br>
-<br>
 Julia version: 1.8.3 <br>
 <br>
 Julia Packages:<br>
@@ -43,3 +39,8 @@ DrWatson v2.12.0<br>
 Pickle v0.3.2<br>
 Plots v1.36.4<br>
 StatsBase v0.33.21<br>
+IJulia v1.23.3 (for running Julia kernels in Jupyter Notebook)<br>
+<br>
+The Jupyter notebooks can be run following the installation of Anaconda. Julia's IJulia package allows loading Julia kernels in Jupyter Notebook instances.
+
+
