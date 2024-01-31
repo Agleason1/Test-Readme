@@ -23,6 +23,6 @@ Represents current S. pneumoniae prevalence, derived from model scenario 1
 4. S. pneumoniae_incidence_estimates.csv<br>
 2010 incidence of pneumoniae by state
 5. vaccination_data_condensed.csv<br>
-Vaccination coverage by state and wealth quintile
+Vaccination coverage by state and wealth quintile for S. pneumoniae, Hib
 6. wealthq_data_condensed.csv<br>
 Proportion of state inhabitants per wealth quintile
