@@ -2,7 +2,7 @@
 
 ## Model scenarios:
 
-1. ABM_code_incrementing_vaccinations_to_current_(last 12 years).ipynb
+1. ABM_code_incrementing_vaccinations_to_current_(last 12 years).ipynb <br>
 Model of the last 12 years in which vaccination coverage was increased in to current levels.
 
 2. ABM_code_no_vaccinations_(last 12 years).ipynb
