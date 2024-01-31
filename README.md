@@ -1,4 +1,4 @@
-# Agent-based_infection_model
+# *S. pneumoniae* and Hib agent-based infection models
 
 ## Model scenarios:
 
