@@ -31,6 +31,7 @@ Proportion of state inhabitants per wealth quintile
 
 The Jupyter notebooks can be run following the installation of Anaconda and the IJulia Python module. IJulia allows to load Julia kernels in Jupyter Notebook instances.
 <br>
+<br>
 Julia version: 1.8.3 <br>
 <br>
 Julia Packages:<br>
