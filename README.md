@@ -41,6 +41,6 @@ Plots v1.36.4<br>
 StatsBase v0.33.21<br>
 IJulia v1.23.3 (for running Julia kernels in Jupyter Notebook)<br>
 <br>
-The Jupyter notebooks can be run following the installation of Anaconda. Julia's IJulia package allows loading Julia kernels in Jupyter Notebook instances.
+The Jupyter notebooks can be run following the installation of Anaconda. Julia's IJulia package allows loading Julia environments into Jupyter notebooks.
 
 
