@@ -25,7 +25,11 @@ Represents current *S. pneumoniae* prevalence, derived from model scenario 1
 5. vaccination_data_condensed.csv<br>
 Vaccination coverage by state and wealth quintile for *S. pneumoniae*, Hib
 6. wealthq_data_condensed.csv<br>
-Proportion of state inhabitants per wealth quintile
+Proportion of state inhabitants per wealth quintile<br>
+
+Other data used to tune the model is found in Supplemental Materials and is input directly in model scenario code.
+
+
 
 ## Dependencies:
 Julia version: 1.8.3 <br>
