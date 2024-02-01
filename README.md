@@ -29,8 +29,6 @@ Proportion of state inhabitants per wealth quintile<br>
 
 Other data used to tune the model is found in Supplemental Materials and is input directly in model scenario code.
 
-
-
 ## Dependencies:
 Julia version: 1.8.3 <br>
 <br>
@@ -47,6 +45,9 @@ IJulia v1.23.3 (for running Julia kernels in Jupyter Notebook)<br>
 <br>
 The Jupyter notebooks can be run following the installation of Anaconda. Julia's IJulia package allows loading Julia environments into Jupyter notebooks.
 
+## Operating system used for simulations:
+Windows PC with 32 logical processors and 100 GB RAM
+
 ## Instructions for use:
-This repository should be cloned to a local location. From there, model scenario notebooks can be run to replicate the results depicted in the study. The dependencies listed above should be installed. Models cannot be run with the current set parameters on a standard desktop computer due to memory constraints. We advise either adjusting model parameters (change the value of 'total_agents=150000' in the 'create_params' function in each notebook to a much lower value) or using a computing resource with at least 100GB of memory.
+This repository should be cloned to a local location. From there, model scenario notebooks can be run to replicate the results depicted in the study. The dependencies listed above should be installed. Models cannot be run with the current set parameters on a standard desktop computer due to memory constraints. We advise either reducing the number of agents in simulation (change the value of 'total_agents=150000' in the 'create_params' function in each notebook to a much lower value) or using a computing resource with at least 100GB of memory.
 
